@@ -12,6 +12,13 @@ BACK-END:
   
  ##
 
+<div>
+<a href="https://github.com/Meison-de-Jesus">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meison-de-Jesus&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Meison-de-Jesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 ### Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
@@ -24,11 +31,6 @@ BACK-END:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 
-<div>
-<a href="https://github.com/Meison-de-Jesus">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meison-de-Jesus&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Meison-de-Jesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ##
 
