@@ -1,7 +1,5 @@
 ### Bem vindo ao meu mundo!
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 
 FRONT-END:
   - Estudando HTML;
@@ -13,7 +11,8 @@ BACK-END:
   - Estudando JavaScript/NodeJS.
   
  ##
-  
+ 
+ 
 <div>
 <a href="https://github.com/Meison-de-Jesus">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meison-de-Jesus&layout=compact&langs_count=7&theme=dracula"/>
